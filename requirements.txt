@@ -22,7 +22,7 @@ djangorestframework==3.11.2
 gunicorn==19.9.0
 idna==3.3; python_version >= '3'
 ndg-httpsclient==0.5.1
-oauthlib==3.2.0; python_version >= '3.6'
+oauthlib==3.2.2; python_version >= '3.6'
 psycopg2==2.9.3; python_version >= '3.6'
 pusher==2.0.1
 pyasn1==0.4.8
